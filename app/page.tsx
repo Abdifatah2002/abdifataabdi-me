@@ -426,7 +426,6 @@ export default function Home() {
 
         {/* ── Hero ── */}
         <section className="hero" id="about">
-          <div className="hero-tag"><span className="dot" />Open to opportunities</div>
           <h1>Abdifatah Abdi</h1>
           <p className="hero-sub">Software Engineer &amp; Data Science · UW–Madison</p>
 
